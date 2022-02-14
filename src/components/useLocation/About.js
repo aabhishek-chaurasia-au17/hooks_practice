@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
         About hello world
-        <button type="button">Home Page</button>
+        <button type="button">About Page</button>
     </div>
   )
 }
